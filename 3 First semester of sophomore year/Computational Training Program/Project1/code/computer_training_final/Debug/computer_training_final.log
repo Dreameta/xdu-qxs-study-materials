@@ -1,0 +1,15 @@
+﻿  computer_training_final.cpp
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(170,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(170,11): message : 占位符和其参数预计 5 可变参数，但提供的却是 3 参数
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(170,11): message : 缺失的可变参数 4 为格式字符串“%s”所需
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(206,13): warning C4129: “X”: 不可识别的字符转义序列
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(206,13): warning C4129: “[”: 不可识别的字符转义序列
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(206,13): warning C4129: “c”: 不可识别的字符转义序列
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(206,13): warning C4129: “p”: 不可识别的字符转义序列
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(206,13): warning C4129: “s”: 不可识别的字符转义序列
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(415,13): warning C4129: “X”: 不可识别的字符转义序列
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(415,13): warning C4129: “[”: 不可识别的字符转义序列
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(415,13): warning C4129: “c”: 不可识别的字符转义序列
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(415,13): warning C4129: “p”: 不可识别的字符转义序列
+F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\computer_training_final\computer_training_final.cpp(415,13): warning C4129: “F”: 不可识别的字符转义序列
+  computer_training_final.vcxproj -> F:\Xidian_University_Files(C)\[大二2021]\[Qian_Files]\computer_training\project1\computer_training\computer_training_final\Debug\computer_training_final.exe
