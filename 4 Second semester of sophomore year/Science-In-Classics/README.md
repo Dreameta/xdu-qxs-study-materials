@@ -1,4 +1,4 @@
-经典中科学是一门讲述科学研究方法和思想的课程，很新颖。老师人很好，可惜没有来到线下。
+经典中科学是一门讲述科学研究方法和思想的课程，很新颖。老师人很好，唯一的遗憾就是没有来到线下。
 
 
 
@@ -31,33 +31,33 @@ the core readings related to the issue before attending the discussion session.
 **Part I. Human Exploration of the Physical Universe (物理宇宙的探索)**
 
 1. Is the real world really real?
-  Plato, The Republic of Plato/ translated by Benjamin Jowett. [Verses 506d-518d (from Book VI and Book
-  VII). Source: Project Gutenberg https://www.gutenberg.org/files/55201/55201-h/55201-h.htm]
+    Plato, The Republic of Plato/ translated by Benjamin Jowett. [Verses 506d-518d (from Book VI and Book
+    VII). Source: Project Gutenberg https://www.gutenberg.org/files/55201/55201-h/55201-h.htm]
 2. What is scientific understanding?
-  Isaac Newton, The Mathematical Principles of Natural Philosophy, translated by Andrew Motte.
-  [Excerpts from ‘Definitions’, ‘Axioms, or the Laws of Motion’, ‘Rules of Reasoning in Philosophy
-  (Book IIII) and ‘General Scholium’ (Book III). Source:
-  https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1846)]
+    Isaac Newton, The Mathematical Principles of Natural Philosophy, translated by Andrew Motte.
+    [Excerpts from ‘Definitions’, ‘Axioms, or the Laws of Motion’, ‘Rules of Reasoning in Philosophy
+    (Book IIII) and ‘General Scholium’ (Book III). Source:
+    https://en.wikisource.org/wiki/The_Mathematical_Principles_of_Natural_Philosophy_(1846)]
 
 **Part II. Human Exploration of the World of Life (生命世界的探索)**
 
 1. What are the laws of life?
-  Charles Darwin, The Origin of Species, 1st Edition. (Full text available online: http://darwinonline.
-  org.uk/) [Chapter 4 (Para. 1-6, 9-18, 39-46, 50-63, 68-71)]
+    Charles Darwin, The Origin of Species, 1st Edition. (Full text available online: http://darwinonline.
+    org.uk/) [Chapter 4 (Para. 1-6, 9-18, 39-46, 50-63, 68-71)]
 2. What impacts does manipulation of life bring?
-  Rachel Carson, Silent Spring (Boston: Houghton Mifflin, 1962). [Chapter 6]
+    Rachel Carson, Silent Spring (Boston: Houghton Mifflin, 1962). [Chapter 6]
 
 **Part III. Our Understanding of Human Understanding (我们对人类理解的理解)**
 
 1. What guides the scientist’s mind?
-  Henri Poincaré, The Value of Science: Essential Writings of Henri Poincaré (New York: Modern Library,
-  2001). [Science and Method, Chapters I and III]
+    Henri Poincaré, The Value of Science: Essential Writings of Henri Poincaré (New York: Modern Library,
+    2001). [Science and Method, Chapters I and III]
 2. What is the human mind?
-  Eric R. Kandel, In Search of Memory: The Emergence of a New Science of Mind (New York: W. W.
-  Norton & Company, 2006). [Chapter 4 (Para. 1-9), Chapter 28 (whole)]
+    Eric R. Kandel, In Search of Memory: The Emergence of a New Science of Mind (New York: W. W.
+    Norton & Company, 2006). [Chapter 4 (Para. 1-9), Chapter 28 (whole)]
 3. What understanding of Nature did Chinese have?
-  Joseph Needham and Colin A. Roland, The Shorter Science and Civilisation in China Vol. 1 (Cambridge:
-  Cambridge University Press, 1978). [Chapter 10 (Para. 1-3, 13-42)]
+    Joseph Needham and Colin A. Roland, The Shorter Science and Civilisation in China Vol. 1 (Cambridge:
+    Cambridge University Press, 1978). [Chapter 10 (Para. 1-3, 13-42)]
 
 
 
