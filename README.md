@@ -11,6 +11,9 @@ Book searching:  http://z-lib.org
 
 CS-SELF Learning : https://csdiy.wiki
 
+# 2 recommend
+（1）git and others
+https://www.liaoxuefeng.com/
 
 
 > statement : Here is just a reference, and still do not consider to provide the self-study channel
