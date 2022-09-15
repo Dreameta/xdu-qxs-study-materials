@@ -15,7 +15,7 @@ CS-SELF Learning : https://csdiy.wiki
 (1) git and others
 https://www.liaoxuefeng.com/
 
-(2) a way to solve problems https://stackoverflow.com/
+(2) a wonderful way to solve problems https://stackoverflow.com/
 
 > statement : Here is just a reference, and still do not consider to provide the self-study channel
 
