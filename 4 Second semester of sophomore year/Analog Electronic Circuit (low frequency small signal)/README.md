@@ -14,7 +14,7 @@
 
 
 
-# 3 [知识结构](Analog Electronic Circuit (low frequency small signal).xmin)
+# 3 [知识结构](Analog Electronic Circuit (low frequency small signal).xmind)
 
 老师讲的时候用的是笔书，所以没有ppt。我做了知识结构，但是文件损坏了，所以没有放。不过参考新概念模拟电路的结构就挺好的。
 
